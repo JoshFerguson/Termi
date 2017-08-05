@@ -1,0 +1,14 @@
+{
+  "name": "Temi",
+  "version": "1.0.0",
+  "description": "A super awesome, super custmoizable terminal app for all platfroms",
+  "repository": "JoshFerguson/Termi",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "start": "electron assets/js/main.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
